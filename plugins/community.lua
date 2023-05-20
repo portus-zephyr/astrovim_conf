@@ -23,9 +23,8 @@ return {
         ts_rainbow2 = true,
       },
     },
-  },
+  }
   -- { import = "astrocommunity.completion.copilot-lua-cmp" },
-}
   -- { import = "astrocommunity.colorscheme.catppuccin" },
   -- { import = "astrocommunity.completion.copilot-lua-cmp" },
 }
